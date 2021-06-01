@@ -6,6 +6,6 @@ Project: Design and develop a web application that would allow an HR member to p
 - Language: C#
 - Visual Studio 2019
 - Database: SQL Server
-- Backend: Web API
+- Backend: Web API using ASP.NET Core
 - Front End: Angular 12
 - Theme: Angular Material
